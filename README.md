@@ -46,6 +46,10 @@ The Tableau dashboard includes:
 
 - **Filters & Interactivity:** Dynamic slicers for zip code, bedroom count, and price ranges.
 
+Tableau Dashboard shown below: 
+
+![](Tableau_Dasboard.png)
+
 ---
 
 ## Key Metrics and Findings 📌
